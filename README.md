@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helagro&layout=compact&card_width=480&langs_count=15&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helagro&layout=compact&langs_count=8&hide_title=true">
   </a>
 </p>
 
