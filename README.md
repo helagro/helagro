@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **helagro/helagro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helagro&layout=compact&card_width=465&langs_count=10&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helagro&layout=compact&card_width=480&langs_count=15&hide_title=true">
   </a>
 </p>
 
