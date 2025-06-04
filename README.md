@@ -8,4 +8,4 @@
 
 ## Projects outside of GitHub
 
-- [Treqs Vscode on GitLab](https://git.chalmers.se/eric.knauss/treqs-vscode)
+- [Treqs Vscode on GitLab](https://gitlab.com/treqs-on-git/treqs-vscode)
