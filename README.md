@@ -2,11 +2,7 @@
 
 ## Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helagro&layout=compact&langs_count=8&hide_title=true">
-  </a>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helagro&layout=compact&langs_count=8&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects outside of GitHub
 
